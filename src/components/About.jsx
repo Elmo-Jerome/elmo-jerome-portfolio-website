@@ -11,7 +11,7 @@ const About = () => {
           <p className=" text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
 
-        <p>
+        <p className="text-xl mt-20 ">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
           dignissimos repellat at, quod dolor earum mollitia itaque rem
           voluptate repellendus alias aut, ratione temporibus. Nostrum expedita
@@ -22,7 +22,7 @@ const About = () => {
 
         <br />
 
-        <p>
+        <p className="text-xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
           dolorem culpa consequuntur nesciunt ut, laudantium iure minima
           accusantium laboriosam repellat eos nostrum vitae corrupti doloremque
